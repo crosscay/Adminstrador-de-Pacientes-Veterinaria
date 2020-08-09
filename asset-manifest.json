@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Administrador_de_Pacientes_Veterinaria_React/static/css/main.1de405d2.chunk.css",
+    "main.js": "/Administrador_de_Pacientes_Veterinaria_React/static/js/main.df918950.chunk.js",
+    "main.js.map": "/Administrador_de_Pacientes_Veterinaria_React/static/js/main.df918950.chunk.js.map",
+    "runtime-main.js": "/Administrador_de_Pacientes_Veterinaria_React/static/js/runtime-main.bbe337a7.js",
+    "runtime-main.js.map": "/Administrador_de_Pacientes_Veterinaria_React/static/js/runtime-main.bbe337a7.js.map",
+    "static/js/2.2b529cbc.chunk.js": "/Administrador_de_Pacientes_Veterinaria_React/static/js/2.2b529cbc.chunk.js",
+    "static/js/2.2b529cbc.chunk.js.map": "/Administrador_de_Pacientes_Veterinaria_React/static/js/2.2b529cbc.chunk.js.map",
+    "index.html": "/Administrador_de_Pacientes_Veterinaria_React/index.html",
+    "precache-manifest.1ecfe01c581d6943296e4bf36c03b1b8.js": "/Administrador_de_Pacientes_Veterinaria_React/precache-manifest.1ecfe01c581d6943296e4bf36c03b1b8.js",
+    "service-worker.js": "/Administrador_de_Pacientes_Veterinaria_React/service-worker.js",
+    "static/css/main.1de405d2.chunk.css.map": "/Administrador_de_Pacientes_Veterinaria_React/static/css/main.1de405d2.chunk.css.map",
+    "static/js/2.2b529cbc.chunk.js.LICENSE.txt": "/Administrador_de_Pacientes_Veterinaria_React/static/js/2.2b529cbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbe337a7.js",
+    "static/js/2.2b529cbc.chunk.js",
+    "static/css/main.1de405d2.chunk.css",
+    "static/js/main.df918950.chunk.js"
+  ]
+}

@@ -1,4 +1,4 @@
-# Adminstrador-de-Pacientes-Veterinaria
+# Adminstrador de Pacientes para Veterinaria
 Aplicación web creada en react js para administrar pacientes de una veterinaria,
 usando usando hooks y localstorage.
 ### [Demostración](https://crosscay.github.io/Administrador_de_Pacientes_Veterinaria_React/)

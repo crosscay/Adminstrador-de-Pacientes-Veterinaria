@@ -13,7 +13,7 @@ Para iniciar el proyecto utilice:
 $ git clon https://github.com/crosscay/Administrador_de_Pacientes_Veterinaria_React.git
 $ cd Adminstrador-de-Pacientes-Veterinaria-Reactjs
 # instala las dependencias del proyecto
-$ npm install
+$ npm i
 # ejecute `npm start` para un servidor de desarrollo. Vaya a `http: // localhost: 3000 /`. La aplicación se volverá a cargar automáticamente si cambia alguno de los archivos de origen.
 $ npm start
 ```

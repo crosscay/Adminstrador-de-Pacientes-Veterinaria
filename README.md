@@ -1,7 +1,7 @@
 # Adminstrador de Pacientes para Veterinaria
 Aplicación web creada en react js para administrar pacientes de una veterinaria,
 usando hooks y localstorage.
-### [Demostración](https://crosscay.github.io/Administrador_de_Pacientes_Veterinaria_React/)
+### [Demostración](https://administrador-de-pacientes-de-veterinaria-react-js.netlify.app/)
 
 ### Sceenshot
 ![administrador_pacientes](https://user-images.githubusercontent.com/15184739/89725934-ca65f980-d9da-11ea-8db7-8310ceaebaf1.PNG)
@@ -11,7 +11,7 @@ usando hooks y localstorage.
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/Administrador_de_Pacientes_Veterinaria_React.git
+$ git clon https://github.com/crosscay/administrador-de-pacientes-de-veterinaria-react-js.git
 $ cd Adminstrador-de-Pacientes-Veterinaria-Reactjs
 # instala las dependencias del proyecto
 $ npm i
